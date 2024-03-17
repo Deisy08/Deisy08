@@ -1,6 +1,6 @@
 # Hola mi nombre es Deisy 👋
 
-Soy estudiante en front end en el Programa de Oracle Next Education(ONE).
+Soy estudiante universitario de la Universidad Tecnológica del Perú, y participe anteriormente en el Programa de Oracle Next Education(ONE) especificamente en la rama de front-end.
 
 ## Tecnologías:
 
